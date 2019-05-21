@@ -1,3 +1,6 @@
 hello test 123
 
 new text
+
+
+some new text added after merge
