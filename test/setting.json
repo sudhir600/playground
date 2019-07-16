@@ -1,4 +1,5 @@
 {
-	"name": "sample file",
-	"author": "sudhir"
+	"name"	 : "sample file",
+	"author" : "sudhir"
+	"test"	 : "test"
 }
